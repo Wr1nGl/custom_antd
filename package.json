@@ -1,9 +1,9 @@
 {
-  "name": "antd",
+  "name": "custom_antd",
   "version": "4.4.0",
-  "description": "An enterprise-class UI design language and React components implementation",
+  "description": "Custom antd dependency for private project",
   "keywords": [
-    "ant",
+    "custom_antd",
     "component",
     "components",
     "design",
@@ -13,22 +13,14 @@
     "react-component",
     "ui"
   ],
-  "homepage": "https://ant.design/",
-  "bugs": {
-    "url": "https://github.com/ant-design/ant-design/issues"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ant-design/ant-design"
+    "url": "https://github.com/Wr1nGl/custom_antd"
   },
   "license": "MIT",
   "contributors": [
-    "ant"
+    "Wr1nGl"
   ],
-  "funding": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/ant-design"
-  },
   "files": [
     "dist",
     "lib",
@@ -307,5 +299,5 @@
   "tnpm": {
     "mode": "npm"
   },
-  "title": "Ant Design"
+  "title": "Custom Ant Design"
 }
